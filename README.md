@@ -7,8 +7,11 @@ Software Engineer and Web Developer
 * 🌍  I'm based in Reusel, The Netherlands
 * ✉️  You can contact me at [info@wardlavrijsen.com](mailto:info@wardlavrijsen.com)
 * 🚀  I'm currently working on [Autocompletr](http://autocompletr.com)
-* 🧠  I'm learning Rust and AWS
+* 🧠  I'm learning Kubernetes and AWS
 * 🤝  I'm open to collaborating on Everything to do with automation and optimisation of business processes
+
+Take a look at my website for some of my recent projects.
+[wardlavrijsen.com](https://wardlavrijsen.com)
 
 ### Skills
 
