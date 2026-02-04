@@ -7,8 +7,7 @@ Software Engineer and Full-Stack Developer
 * 🌍  I'm based in Reusel, The Netherlands
 * ✉️  You can contact me at [info@wardlavrijsen.com](mailto:info@wardlavrijsen.com)
 * 🚀  I'm currently working on [octanist](https://octanist.com)
-* 🧠  I'm learning cloudflare and AI / LLM tooling 
-* ⚙️  Building the [Trezma Stack](https://stack.trezma.com)
+* 🧠  I'm learning agent frameworks
 * 🤝  I'm open to collaborating
 * 💻 Portfolio & Projects: [wardlavrijsen.com](https://wardlavrijsen.com)
 
